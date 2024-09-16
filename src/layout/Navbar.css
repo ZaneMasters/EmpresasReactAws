@@ -1,0 +1,17 @@
+/* Navbar.css */
+.navbar {
+    border-bottom: 2px solid #ddd;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1030; /* Asegúrate de que esté sobre otros elementos */
+}
+
+.nav-link {
+    font-weight: bold;
+    color: #007bff !important;
+}
+
+.nav-link:hover {
+    color: #0056b3 !important;
+}
